@@ -95,6 +95,7 @@ Additionally, make sure that the following extensions are enabled in your PHP:
   -  Type in terminal "php spark db:create (your databese in env)"
   -  php spark migrate
   -  php spark serve
+  -  open url http://localhost:8080/
 
 
 
