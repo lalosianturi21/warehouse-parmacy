@@ -77,6 +77,10 @@ Additionally, make sure that the following extensions are enabled in your PHP:
 
   - Page Sales
       ![image](https://user-images.githubusercontent.com/101650151/205432255-8078628d-da88-4501-8e59-b7aa0de1c8e3.png)
+      
+  - Page Suppliers
+      ![image](https://user-images.githubusercontent.com/101650151/205432308-415ae1d7-b7ae-4db3-8661-89ed736bb24e.png)
+
 
 
 
