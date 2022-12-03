@@ -80,6 +80,10 @@ Additionally, make sure that the following extensions are enabled in your PHP:
       
   - Page Suppliers
       ![image](https://user-images.githubusercontent.com/101650151/205432308-415ae1d7-b7ae-4db3-8661-89ed736bb24e.png)
+      
+  - Page Users
+      ![image](https://user-images.githubusercontent.com/101650151/205432361-1b243fb7-db42-4638-954a-6bd209c45d43.png)
+
 
 
 
