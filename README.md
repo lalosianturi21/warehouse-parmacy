@@ -88,7 +88,10 @@ Additionally, make sure that the following extensions are enabled in your PHP:
      
      
 ## Getting Started
-  -  
+  -  git clone https://github.com/lalosianturi21/warehouse-parmacy.git
+  -  cd warehouse-parmacy/
+  -  Install composer in global or local
+  -  cp env .env or you can env template
 
 
 
