@@ -57,3 +57,6 @@ Additionally, make sure that the following extensions are enabled in your PHP:
 # projectapotek
 # The page in the warehouse-pharmacy
   -Page Home
+    This page is the initial page when you have logged in
+    ![image](https://user-images.githubusercontent.com/101650151/205431607-c0a1af30-e38e-421a-8982-cc1f143dfb55.png)
+
