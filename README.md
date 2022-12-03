@@ -63,4 +63,9 @@ Additionally, make sure that the following extensions are enabled in your PHP:
   - Page Dashboard
       This page contains lists of favorite drugs
       ![image](https://user-images.githubusercontent.com/101650151/205431726-5d6ca6a9-078e-4224-bf04-c90d22b5ce0a.png)
+  
+  - Page Categories
+      On this page we can add the drug category in the warehouse
+      ![image](https://user-images.githubusercontent.com/101650151/205431872-2db932e5-7143-4e62-aae0-0620c6066e5d.png)
+
 
