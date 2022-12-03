@@ -75,6 +75,9 @@ Additionally, make sure that the following extensions are enabled in your PHP:
   - Page Item units
       ![image](https://user-images.githubusercontent.com/101650151/205432199-ef622158-d2ad-49a0-8077-7b9f7affb597.png)
 
+  - Page Sales
+      ![image](https://user-images.githubusercontent.com/101650151/205432255-8078628d-da88-4501-8e59-b7aa0de1c8e3.png)
+
 
 
 
