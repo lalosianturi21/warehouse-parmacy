@@ -61,4 +61,6 @@ Additionally, make sure that the following extensions are enabled in your PHP:
       ![image](https://user-images.githubusercontent.com/101650151/205431607-c0a1af30-e38e-421a-8982-cc1f143dfb55.png)
   
   - Page Dashboard
+      This page contains lists of favorite drugs
+      ![image](https://user-images.githubusercontent.com/101650151/205431726-5d6ca6a9-078e-4224-bf04-c90d22b5ce0a.png)
 
