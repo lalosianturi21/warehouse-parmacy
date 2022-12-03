@@ -71,6 +71,10 @@ Additionally, make sure that the following extensions are enabled in your PHP:
   - Page Purchases
       This page is used for purchases and we can also view purchase details
       ![image](https://user-images.githubusercontent.com/101650151/205431973-f46b72ad-ff8f-4d1b-b864-9bfa7efc8c65.png)
+      
+  - Page Item units
+      ![image](https://user-images.githubusercontent.com/101650151/205432199-ef622158-d2ad-49a0-8077-7b9f7affb597.png)
+
 
 
 
