@@ -67,5 +67,10 @@ Additionally, make sure that the following extensions are enabled in your PHP:
   - Page Categories
       On this page we can add the drug category in the warehouse
       ![image](https://user-images.githubusercontent.com/101650151/205431872-2db932e5-7143-4e62-aae0-0620c6066e5d.png)
+      
+  - Page Purchases
+      This page is used for purchases and we can also view purchase details
+      ![image](https://user-images.githubusercontent.com/101650151/205431973-f46b72ad-ff8f-4d1b-b864-9bfa7efc8c65.png)
+
 
 
