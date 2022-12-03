@@ -92,6 +92,9 @@ Additionally, make sure that the following extensions are enabled in your PHP:
   -  cd warehouse-parmacy/
   -  Install composer in global or local
   -  cp env .env or you can env template
+  -  Type in terminal "php spark db:create (your databese in env)"
+  -  php spark migrate
+  -  php spark serve
 
 
 
