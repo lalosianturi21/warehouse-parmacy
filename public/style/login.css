@@ -1,0 +1,12 @@
+@media (max-width: 991px) {
+    .inibackground{
+        min-height: 100vh;
+    }
+    .untukmargin{
+    top: 30px;
+    }
+}
+
+.inibackground {
+    min-height: 100vh;
+}
